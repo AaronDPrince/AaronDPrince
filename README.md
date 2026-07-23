@@ -1,17 +1,14 @@
 # Hello, I'm Aaron Prince
 <a href="https://www.linkedin.com/in/aaron-prince-470b49248/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I'm a Management Information System graduate with a profound interest technogoly especially cybersecurity 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in Information Science has led me to develop a passion for cybersecurity that really resonates with me , and I am now eager to pursuing this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
