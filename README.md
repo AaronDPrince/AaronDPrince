@@ -1,5 +1,5 @@
 # Hello, I'm Aaron Prince
-<a href="https://linkedin.com](https://www.linkedin.com/in/aaron-prince-470b49248/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aaron-prince-470b49248/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
